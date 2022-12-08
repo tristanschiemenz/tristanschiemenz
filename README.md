@@ -17,3 +17,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanschiemenz&show_icons=true&locale=en" alt="tristanschiemenz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tristanschiemenz&" alt="tristanschiemenz" /></p>
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
