@@ -1,3 +1,2 @@
+<img src="https://github.com/tristanschiemenz/github-stats/tree/master/generated/overview.svg" alt="Alt Text">
 
-![](https://raw.githubusercontent.com/tristanschiemenz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tristanschiemenz/github-stats/master/generated/overview.svg#gh-light-mode-only)
