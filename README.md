@@ -18,9 +18,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tristanschiemenz&" alt="tristanschiemenz" /></p>
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/tristanschiemenz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tristanschiemenz/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/blob/main/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/blob/main/generated/languages.svg#gh-light-mode-only)
+
