@@ -9,8 +9,5 @@
 <a href="https://discord.gg/https://discord.gg/tgwY7xSY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/tgwY7xSY" height="30" width="40" /></a>
 </p>
 
-
-![](https://raw.githubusercontent.com/tristanschiemenz/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/tristanschiemenz/github-stats/master/generated/languages.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/tristanschiemenz/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/tristanschiemenz/github-stats/master/generated/overview.svg#gh-light-mode-only)
