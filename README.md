@@ -17,4 +17,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanschiemenz&show_icons=true&locale=en" alt="tristanschiemenz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tristanschiemenz&" alt="tristanschiemenz" /></p>
-![ss](https://raw.githubusercontent.com/tristanschiement/github-stats/blob/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/tristanschiement/github-stats/blob/master/generated/overview.svg)
