@@ -15,5 +15,5 @@
 <img src="https://github.com/tristanschiemenz/github-stats/blob/master/generated/overview.svg" alt=""><img src="https://github.com/tristanschiemenz/github-stats/blob/master/generated/languages.svg" alt="">
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanschiemenz&show_icons=true&locale=en" alt="tristanschiemenz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tristanschiemenz&show_icons=true&locale=en" alt="" /></p>
 
